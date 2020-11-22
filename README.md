@@ -13,7 +13,7 @@ Open Youtube videos in Nearpod
   * [Dolphin Browser](https://www.tampermonkey.net/?ext=dhdg&browser=dolphin)
   * [UC Browser](https://www.tampermonkey.net/?ext=dhdg&browser=ucweb)  
 
-2. Get information or install:
+2. Install the userscript:
 
 	| Userscript             | Install link |
 	|------------------------|:------------:|
