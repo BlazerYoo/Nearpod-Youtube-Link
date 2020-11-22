@@ -4,7 +4,7 @@ Open Youtube videos in Nearpod
 
 ## Installation
 
-1. First install Tampermonkey on your browser:
+1. Install Tampermonkey on your browser:
   * [Chrome](https://www.tampermonkey.net/?ext=dhdg&browser=chrome)
   * [Microsoft Edge](https://www.tampermonkey.net/?ext=dhdg&browser=edge)
   * [Safari](https://www.tampermonkey.net/?ext=dhdg&browser=safari)
@@ -17,7 +17,7 @@ Open Youtube videos in Nearpod
 
 	| Userscript             | Install link |
 	|------------------------|:------------:|
-	| Nearpod Youtube Link   | [install](https://github.com/BlazerYoo/Nearpod-Youtube-Link/raw/main/Nearpod_Youtube_Link.user.js) |
+	| Nearpod Youtube Link   | [Install](https://github.com/BlazerYoo/Nearpod-Youtube-Link/raw/main/Nearpod_Youtube_Link.user.js) |
 
 ## Issues
 
