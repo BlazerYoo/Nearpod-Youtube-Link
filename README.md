@@ -15,10 +15,9 @@ Open Youtube videos in Nearpod
 
 2. Get information or install:
 
-	|----------------------------------------|:---:|
-	| Nearpod Youtube Link                   | [install][ccr-raw] |
-
-[ccr-raw]: https://github.com/BlazerYoo/Nearpod-Youtube-Link/raw/main/Nearpod_Youtube_Link.user.js
+	| Userscript             | Install link |
+	|------------------------|:------------:|
+	| Nearpod Youtube Link   | [install](https://github.com/BlazerYoo/Nearpod-Youtube-Link/raw/main/Nearpod_Youtube_Link.user.js) |
 
 ## Issues
 
